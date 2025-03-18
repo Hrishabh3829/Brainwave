@@ -20,4 +20,5 @@ DevOps Excellence leverages AI to optimize CI/CD pipelines, automate cloud opera
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Hrishabh3829/Brainwave.git
-   cd devops-excellence
+   cd Brainwave
+   
