@@ -1,5 +1,5 @@
 
-# 🚀 DevOps Excellence  
+# 🚀 Brainwave  
 
 **AI-Powered Cloud Automation for Smarter DevOps**  
 
