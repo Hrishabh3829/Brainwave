@@ -19,5 +19,5 @@ DevOps Excellence leverages AI to optimize CI/CD pipelines, automate cloud opera
 ## 🔹 Getting Started  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Hrishabh3829/Hrishabh3829-CDD_Project--DevOps-Excellence.git
+   git clone https://github.com/Hrishabh3829/Brainwave.git
    cd devops-excellence
